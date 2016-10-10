@@ -7,7 +7,7 @@ Towards this end, certain behaviors and practices will not be tolerated.
 #tl;dr
 * Be respectful.
 * We're here to help:
-- Alexandra Bowem: Twitter: @alexandraabowen Slack: @alexbowen
+- Alexandra Bowen: Twitter: @alexandraabowen Slack: @alexbowen
 - Sara Sigel: Twitter/Slack: @sarasigel
 * Abusive behavior is never tolerated.
 * Data published to this Slack is hosted at the discretion of the administrators, and may be removed.
