@@ -6,19 +6,20 @@ The community-run CMX slack is a collaborative effort of friendly people who wan
 
 This Slack channel was created to be a side-channel for community managers, community support, technical advocates, evangelists and organizers. Generally, we aim to be a place you could go with questions like:
 
-"Hey, who all is going to be at CMX East?"
-"What's the best place to buy t-shirts that fit people?"
-"Does anyone want to co-sponsor a Meetup?"
-"Our Meetup Venue just burned down. Can anyone in Portland host on short notice?"
-"What's the best community platform?"
-"What are your quarterly goals as a community manager?"
-"How much do you travel as an advocate?"
-"What is your corporate conference strategy?"
-"What sticker design is working best for you right now?"
-"I find myself in Chicago and in want of lunch. Anybody hungry?"
-"What extent to you copy-edit your blog content?"
-"Anybody want a job?"
-"Anyone have any advice on starting an Ambassador Program?"
+<li>"Hey, who all is going to be at CMX East?"</li>
+<li>"What's the best place to buy t-shirts that fit people?"</li>
+<li>"Does anyone want to co-sponsor a Meetup?"</li>
+<li>"Our Meetup Venue just burned down. Can anyone in Portland host on short notice?"</li>
+<li>"What's the best community platform?"</li>
+<li>"What are your quarterly goals as a community manager?"</li>
+<li>"How much do you travel as an advocate?"</li>
+<li>"What is your corporate conference strategy?"</li>
+<li>"What sticker design is working best for you right now?"</li>
+<li>"I find myself in Chicago and in want of lunch. Anybody hungry?"</li>
+<li>"What extent to you copy-edit your blog content?"</li>
+<li>"Anybody want a job?"</li>
+<li>"Anyone have any advice on starting an Ambassador Program?"</li>
+<br>
 Questions like those get asked and answered every day, along with a lot of general conversation about advocacy and community management and just plain palling around. Community Management, developer evangelism and advocacy are relatively new roles, so in parallel to the community organization activity, a lot of what goes on in CMX slack is practitioners figuring out what their own roles mean or how to navigate making them work in a new place.
 
 ## Who can Join?
